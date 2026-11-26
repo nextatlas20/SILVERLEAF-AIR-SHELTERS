@@ -1,0 +1,80 @@
+schema_version = 1
+cutoff = "2052-08-19T18:00Z"
+
+[[shelters]]
+shelter_id = "SL-C"
+venue = "Cedar Annex"
+ready_by = "2052-08-19T17:25Z"
+tier = "PRIORITY"
+required_unit_count = 2
+selected_unit_count = 1
+deployed_unit_count = 1
+selected_cadr_cfm = 310
+latest_selected_at = "2052-08-19T17:05Z"
+usable_check_count = 1
+status = "MISSING_UNIT"
+
+[[shelters]]
+shelter_id = "SL-B"
+venue = "Birch Pavilion"
+ready_by = "2052-08-19T17:20Z"
+tier = "STANDARD"
+required_unit_count = 1
+selected_unit_count = 1
+deployed_unit_count = 0
+selected_cadr_cfm = 0
+latest_selected_at = "2052-08-19T17:12Z"
+usable_check_count = 1
+status = "NOT_DEPLOYED"
+
+[[shelters]]
+shelter_id = "SL-D"
+venue = "Dogwood Hall"
+ready_by = "2052-08-19T17:40Z"
+tier = "STANDARD"
+required_unit_count = 2
+selected_unit_count = 2
+deployed_unit_count = 2
+selected_cadr_cfm = 370
+latest_selected_at = "2052-08-19T17:34Z"
+usable_check_count = 4
+status = "UNDER_CAPACITY"
+
+[[shelters]]
+shelter_id = "SL-E"
+venue = "Elm School"
+ready_by = "2052-08-19T17:15Z"
+tier = "PRIORITY"
+required_unit_count = 1
+selected_unit_count = 1
+deployed_unit_count = 1
+selected_cadr_cfm = 260
+latest_selected_at = "2052-08-19T17:25Z"
+usable_check_count = 1
+status = "LATE_READY"
+
+[[shelters]]
+shelter_id = "SL-A"
+venue = "Alder Gym"
+ready_by = "2052-08-19T17:30Z"
+tier = "PRIORITY"
+required_unit_count = 2
+selected_unit_count = 2
+deployed_unit_count = 2
+selected_cadr_cfm = 510
+latest_selected_at = "2052-08-19T17:20Z"
+usable_check_count = 3
+status = "READY"
+
+[[shelters]]
+shelter_id = "SL-F"
+venue = "Fir Library"
+ready_by = "2052-08-19T17:50Z"
+tier = "STANDARD"
+required_unit_count = 2
+selected_unit_count = 2
+deployed_unit_count = 2
+selected_cadr_cfm = 470
+latest_selected_at = "2052-08-19T17:45Z"
+usable_check_count = 2
+status = "READY"
