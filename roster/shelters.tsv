@@ -1,0 +1,7 @@
+shelter_id	venue	ready_by	tier	required_units	target_cadr_cfm
+SL-C	Cedar Annex	2052-08-19T17:25Z	PRIORITY	2	600
+SL-A	Alder Gym	2052-08-19T17:30Z	PRIORITY	2	500
+SL-F	Fir Library	2052-08-19T17:50Z	STANDARD	2	450
+SL-D	Dogwood Hall	2052-08-19T17:40Z	STANDARD	2	400
+SL-B	Birch Pavilion	2052-08-19T17:20Z	STANDARD	1	300
+SL-E	Elm School	2052-08-19T17:15Z	PRIORITY	1	250

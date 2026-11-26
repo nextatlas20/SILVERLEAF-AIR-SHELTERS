@@ -1,0 +1,17 @@
+{"shelter_id":"SL-A","unit":1,"checked_at":"2052-08-19T17:10Z","placement":"DEPLOYED","cadr_cfm":240,"check_no":1}
+{"shelter_id":"SL-A","unit":2,"checked_at":"2052-08-19T17:20Z","placement":"DEPLOYED","cadr_cfm":250,"check_no":2}
+{"shelter_id":"SL-A","unit":1,"checked_at":"2052-08-19T17:20Z","placement":"DEPLOYED","cadr_cfm":260,"check_no":3}
+{"shelter_id":"SL-B","unit":1,"checked_at":"2052-08-19T17:12Z","placement":"STAGED","cadr_cfm":320,"check_no":4}
+{"shelter_id":"SL-C","unit":1,"checked_at":"2052-08-19T17:05Z","placement":"DEPLOYED","cadr_cfm":310,"check_no":5}
+{"shelter_id":"SL-C","unit":3,"checked_at":"2052-08-19T17:06Z","placement":"DEPLOYED","cadr_cfm":310,"check_no":6}
+{"shelter_id":"SL-D","unit":1,"checked_at":"2052-08-19T17:32Z","placement":"DEPLOYED","cadr_cfm":180,"check_no":7}
+{"shelter_id":"SL-D","unit":2,"checked_at":"2052-08-19T17:34Z","placement":"DEPLOYED","cadr_cfm":190,"check_no":8}
+{"shelter_id":"SL-E","unit":1,"checked_at":"2052-08-19T17:25Z","placement":"DEPLOYED","cadr_cfm":260,"check_no":9}
+{"shelter_id":"SL-F","unit":1,"checked_at":"2052-08-19T17:41Z","placement":"DEPLOYED","cadr_cfm":220,"check_no":10}
+{"shelter_id":"SL-F","unit":2,"checked_at":"2052-08-19T17:45Z","placement":"DEPLOYED","cadr_cfm":250,"check_no":11}
+{"shelter_id":"SL-F","unit":1,"checked_at":"2052-08-19T18:01Z","placement":"STAGED","cadr_cfm":0,"check_no":12}
+{"shelter_id":"SL-D","unit":2,"checked_at":"2052-08-19T17:34Z","placement":"DEPLOYED","cadr_cfm":185,"check_no":7}
+{"shelter_id":"SL-D","unit":2,"checked_at":"2052-08-19T17:34Z","placement":"DEPLOYED","cadr_cfm":190,"check_no":8}
+{"shelter_id":"SL-X","unit":1,"checked_at":"2052-08-19T17:00Z","placement":"DEPLOYED","cadr_cfm":999,"check_no":13}
+{"shelter_id":"SL-B","unit":1,"checked_at":"2052-08-19T17:19Z","placement":"DEPLOYED","cadr_cfm":305,"check_no":2,"memo":"extra"}
+not-json
